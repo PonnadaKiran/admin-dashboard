@@ -1,0 +1,20 @@
+.motion-graph-sensor {
+    background-color: #1b1b2f;
+    padding: 20px;
+    border-radius: 10px;
+    color: #fff;
+  }
+  
+  .range-selector button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #1a1a2e;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .range-selector .active {
+    background-color: #e94560;
+  }
+  

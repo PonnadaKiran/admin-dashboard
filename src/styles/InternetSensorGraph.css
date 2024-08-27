@@ -1,0 +1,22 @@
+.internet-sensor-graph {
+    background-color: #1b1b2f;
+    padding: 20px;
+    border-radius: 10px;
+    color: #fff;
+    margin-bottom: 20px;
+  }
+  
+  .range-selector button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #1a1a2e;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .range-selector .active {
+    background-color: #3b82f6;
+  }
+  
